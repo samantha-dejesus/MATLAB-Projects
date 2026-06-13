@@ -1,6 +1,4 @@
-% Bayonon, Camua, Victohay Activity
 % Gauss Elimination Method 
-
 
 A = [1 2 2 1; 2 -4 1 -5; 2 1 -2 -4; -1 2 1 -2] % coefficient matrix
 B = [17; 8 ;10 ;17] % source matrix
